@@ -22,7 +22,7 @@ pip install pandas numpy seaborn matplotlib scipy scikit-learn keras
 
 # File Structure
 - `Data/challenge_txs.csv`: The transactional data used for anomaly detection. This should be placed in the `Data/` directory.
-- `Anomaly Detection using Autoencoder.ipyb`: The main Python script for anomaly detection using Autoencoders.
+- `Anomaly Detection using Autoencoder.ipynb`: The main Python script for anomaly detection using Autoencoders.
 
 ## Description of the Code
 
@@ -60,7 +60,7 @@ pip install pandas numpy seaborn matplotlib scipy scikit-learn keras
 
 ## How to Use
 1. Place the `challenge_txs.csv` file in the `Data/` directory.
-2. Run the notebook `Anomaly Detection using Autoencoder.ipyb` to perform the anomaly detection process.
+2. Run the notebook `Anomaly Detection using Autoencoder.ipynb` to perform the anomaly detection process.
 3. Review the visualizations and the output showing the number of anomalous businesses detected.
 
 ## Key Insights
